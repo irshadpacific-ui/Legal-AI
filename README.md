@@ -1,29 +1,32 @@
-# LegalAI
+# Legal Drafting System
 
-LegalAI is an AI-powered legal drafting and research platform for Indian Advocates.
+A modern Legal Drafting and Judicial Assistant Tool designed for Advocates, Law Students, and Legal Professionals.
 
-## Goals
+## Features (Planned)
 
-- Legal Notice Generator
-- Plaint Generator
-- Written Statement Generator
-- Agreement Generator
-- Affidavit Generator
-- Case Law Research
-- Bare Acts Search
-- AI Legal Assistant
+- Legal Templates
+- Petition Drafts
+- Vakalatnama
+- PR Bond
+- Bail Applications
+- Legal Notices
+- Citation Library
+- Supreme Court Judgments
+- Bombay High Court Judgments
+- IPC to BNS Converter
+- Acts & Sections
+- Powerful Search
+- PDF Export
+- Offline Support
 
-## Technologies
+## Tech Stack
 
 - HTML
 - CSS
 - JavaScript
-- Python
-- FastAPI
-- SQLite
-- Git
+- Supabase
 - GitHub
 
-## Author
+## Developer
 
 Irshad Shaikh
